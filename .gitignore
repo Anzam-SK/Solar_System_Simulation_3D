@@ -1,0 +1,41 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.opendb
+*.sdf
+
+# Build output
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+Debug/
+Release/
+**/Debug/
+**/Release/
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.idb
+*.ipch
+*.tlog/
+*.lastbuildstate
+*.log
+*.recipe
+*.FileListAbsolute.txt
+
+# NuGet packages restored from packages.config
+packages/
+**/packages/
+
+# Temporary and generated files
+*.tmp
+*.temp
+*.cache
+*.bak
+*.ncb
+*.opensdf
